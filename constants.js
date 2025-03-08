@@ -1,21 +1,20 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Mouad Ayoub",
+  title: "Portfolio | Mouad Ayoub",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+    "Mouad Ayoub is a passionate Software Engineer, dedicated to crafting aesthetic, smart, performant and modern apps that captivate and engage users.",
+  twitterHandle: "@AyoubMouad1971",
   keywords: [
-    "Shubh Porwal",
-    "Frontend Engineer",
-    "React Native Developer",
+    "Mouad Ayoub",
     "Software Engineer",
+    "Full stack Developer",
+    "DevOps Engineer",
+    "Ml Engineer",
+    "Ai Engineer",
     "Portfolio",
-    "Devfolio",
-    "Folio",
   ].join(", "),
   image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+    "https://media.licdn.com/dms/image/v2/D4E03AQHTofbboUiEnw/profile-displayphoto-shrink_800_800/B4EZTkbE9gGgAg-/0/1738999091476?e=1746662400&v=beta&t=FGxkHeSTXhyMMMG7vBBTSoRmgEBSarNMJxJuBrEdlfA",
   language: "English",
   themeColor: "#000000",
 };
@@ -44,23 +43,23 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
+  "A pragmatic Software Engineer",
   "I build things for the web",
-  "I create aesthetic and modern apps",
+  "I create aesthetic, smart and modern apps",
 ];
 
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: mouadayoubmouadayoub@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/mouad-ayoub-255a50304/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/mouadayoub1971",
   },
   {
     name: "instagram",
@@ -74,30 +73,63 @@ export const SOCIAL_LINKS = [
 
 export const SKILLS = {
   languagesAndTools: [
-    "html",
-    "css",
-    "javascript",
-    "typescript",
-    "sass",
-    "nodejs",
-    "webpack",
-    "vite",
-    "firebase",
-    "figma",
-    "tanstack-query",
+    "Java",
+    "JEE",
+    "Python",
+    "Csharp",
+    "Cpp",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "NoSQL",
+    "Scala",
+    "PHP",
+    "PL/SQL",
   ],
   librariesAndFrameworks: [
-    "react",
-    "redux",
-    "nextjs",
-    "tailwindcss",
-    "styledcomponents",
-    "antdesign",
-    "chakra-ui",
+    "Spring",
+    "SpringBoot",
+    "Flask",
+    "ASP.NET",
+    "Angular",
+    "React",
+    "Next.js",
+    "React Native",
+    "Vue.js",
+    "Laravel",
+    "Spark",
+    "Kafka",
+    "Hadoop",
+    
   ],
-  databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  databases: ["MySQL", "MongoDB", "Firebase", "PostgreSQL", "OracleDB", "SQL Server"],
+  operatingSystems: ["Windows", "Linux"],
+  other: [
+    "Docker",
+    "Kubernetes",
+    "Nginx",
+    "RabbitMQ",
+    "Git",
+    "GitLab",
+    "Ansible",
+    "Jenkins",
+    "Maven",
+    "JUnit",
+    "RESTful APIs",
+    "GraphQL",
+    "Microservices",
+    "CI/CD",
+    "Cloud Computing",
+    "Data Engineering",
+    "NLP",
+    "AI/ML",
+    "Ethical Hacking",
+    "Agile Methodologies",
+  ],
 };
+
+
+
 
 export const PROJECTS = [
   {
